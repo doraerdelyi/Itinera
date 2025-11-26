@@ -13,6 +13,7 @@
     <name>Itinera Parent</name>
 
     <modules>
+        <module>common</module>
         <module>trip-service</module>
         <module>auth-service</module>
         <module>traveller-service</module>
